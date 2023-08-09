@@ -97,6 +97,7 @@ main {
 .card-light {
   color: var(--primary-grayBlue);
   background-color: white;
+  box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.199);
 }
 
 #card-main {
